@@ -1,0 +1,46 @@
+{
+    "/home": {
+        "name": "home",
+        "path_lower": "/home",
+        "path_display": "/home",
+        "id": "id:tvJBpdEHhBEAAAAAAAAADw",
+        "files": [
+            {
+                "name": "20240519093003_IMG_3004.jpg",
+                "path_lower": "/home/20240519093003_img_3004.jpg",
+                "path_display": "/home/20240519093003_IMG_3004.jpg",
+                "id": "id:tvJBpdEHhBEAAAAAAAAAEA",
+                "server_modified": "2024-07-30T07:18:59",
+                "rev": "61e71ca9fb044cb717cd3",
+                "size": 10735609,
+                "url": "https://www.dropbox.com/scl/fi/mhi7bs2f3yboxwwuxmvv4/20240519093003_IMG_3004.jpg?rlkey=0m6rnkq9i59owqtqo8uc7qqrm&dl=0",
+                "direct_url": "https://dl.dropboxusercontent.com/scl/fi/mhi7bs2f3yboxwwuxmvv4/20240519093003_IMG_3004.jpg?rlkey=0m6rnkq9i59owqtqo8uc7qqrm&dl=0",
+                "index": 0
+            },
+            {
+                "name": "20240527091025_IMG_5110.jpg",
+                "path_lower": "/home/20240527091025_img_5110.jpg",
+                "path_display": "/home/20240527091025_IMG_5110.jpg",
+                "id": "id:tvJBpdEHhBEAAAAAAAAAEQ",
+                "server_modified": "2024-07-30T07:18:59",
+                "rev": "61e71ca9fb045cb717cd3",
+                "size": 7167300,
+                "url": "https://www.dropbox.com/scl/fi/h71i0e2ydiqwyr060tin2/20240527091025_IMG_5110.jpg?rlkey=x6ghggwbkfezuskqruf8myz7d&dl=0",
+                "direct_url": "https://dl.dropboxusercontent.com/scl/fi/h71i0e2ydiqwyr060tin2/20240527091025_IMG_5110.jpg?rlkey=x6ghggwbkfezuskqruf8myz7d&dl=0",
+                "index": 1
+            },
+            {
+                "name": "20240701130036_IMG_0361.jpg",
+                "path_lower": "/home/20240701130036_img_0361.jpg",
+                "path_display": "/home/20240701130036_IMG_0361.jpg",
+                "id": "id:tvJBpdEHhBEAAAAAAAAAEg",
+                "server_modified": "2024-07-30T07:18:59",
+                "rev": "61e71ca9fb046cb717cd3",
+                "size": 10561380,
+                "url": "https://www.dropbox.com/scl/fi/8xstt2eiyw7pb8zwg6ohe/20240701130036_IMG_0361.jpg?rlkey=u2n630dolt7dpa4sbf4rlsmr2&dl=0",
+                "direct_url": "https://dl.dropboxusercontent.com/scl/fi/8xstt2eiyw7pb8zwg6ohe/20240701130036_IMG_0361.jpg?rlkey=u2n630dolt7dpa4sbf4rlsmr2&dl=0",
+                "index": 2
+            }
+        ]
+    }
+}
